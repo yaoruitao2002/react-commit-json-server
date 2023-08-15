@@ -1,0 +1,66 @@
+{
+  "students": [
+    {
+      "name": "姚瑞涛牛逼",
+      "age": "18",
+      "phone": "444-555",
+      "email": "yaoruitao@gmail.com",
+      "education": "鬼圣",
+      "graduationschool": "asdasdd",
+      "profession": "sdasd",
+      "profile": "asdfasfdasadsad",
+      "id": 1
+    },
+    {
+      "name": "时传恒",
+      "age": "20",
+      "phone": "444-555",
+      "email": "yaoruitao@gmail.com",
+      "education": "鬼兵",
+      "graduationschool": "asdasdd",
+      "profession": "sdasd",
+      "profile": "asdfasfdasadsad",
+      "id": 2
+    },
+    {
+      "name": "孙鏊",
+      "age": "22",
+      "phone": "444-555",
+      "email": "yaoruitao@gmail.com",
+      "education": "鬼将",
+      "graduationschool": "asdasdd",
+      "profession": "sdasd",
+      "profile": "asdfasfdasadsad",
+      "id": 3
+    },
+    {
+      "name": "李根",
+      "age": "25",
+      "phone": "444-555",
+      "email": "yaoruitao@gmail.com",
+      "education": "鬼皇",
+      "graduationschool": "asdasdd",
+      "profession": "sdasd",
+      "profile": "asdfasfdasadsad",
+      "id": 4
+    },
+    {
+      "name": "孙国器",
+      "age": "-999",
+      "phone": "10086",
+      "email": "31316",
+      "education": "垃圾鬼兵",
+      "graduationschool": "河背黑奴鬼校",
+      "profession": "黑奴",
+      "profile": "喜欢唱歌",
+      "id": 8
+    }
+  ],
+  "classEs": [
+    {
+      "id": 1,
+      "name": "zzz",
+      "description": "你好"
+    }
+  ]
+}
